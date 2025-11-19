@@ -1,52 +1,30 @@
-# MERN Stack Capstone Project
 
-This assignment focuses on designing, developing, and deploying a comprehensive full-stack MERN application that showcases all the skills you've learned throughout the course.
+Project Name : zero-hunger-kenya
 
-## Assignment Overview
+<b>Project Description :</b> 
+This project was designed as a solution for Sustainable Development Goal No.2 : Zero Hunger
+The Project is an online Food Donation Sysytem. This is a MERN stack based Web application. It allows to connect three major stakeholders in the system. The Organizations that represent people with food needs, Donors, and Volunteers who help donors in deliverying the donations. The system improves the communication process between these three stakeholders which helps in improving the efficieny of the entire food donation process.
 
-You will:
-1. Plan and design a full-stack MERN application
-2. Develop a robust backend with MongoDB, Express.js, and Node.js
-3. Create an interactive frontend with React.js
-4. Implement testing across the entire application
-5. Deploy the application to production
+The Main Functions are 
+- Admin Function
+- Organization Function (representing people with food needs)
+- Donor Function
+- Volunteer Deliverer Function.
 
-## Getting Started
+<b>Technologies User</b>
+- Frontend : React.js
+- Backend : Node.js and Express.js
+- Database : MongoDB
 
-1. Accept the GitHub Classroom assignment
-2. Clone the repository to your local machine
-3. Follow the instructions in the `Week8-Assignment.md` file
-4. Plan, develop, and deploy your capstone project
+<b>Other Tools</b>
+- Azure Boards
+- Sonarqube
+- Git & Github
+- Selenium
+LIVE AT:
+CLIENT:https://zero-hunger-kenya-lzq22jfz0-wales254s-projects.vercel.app/
+SERVER:https://zero-hunger-kenya.onrender.com
 
-## Files Included
+## Developed by Sydney Wesonga Walusala
 
-- `Week8-Assignment.md`: Detailed assignment instructions
 
-## Requirements
-
-- Node.js (v18 or higher)
-- MongoDB (local installation or Atlas account)
-- npm or yarn
-- Git and GitHub account
-- Accounts on deployment platforms (Render/Vercel/Netlify/etc.)
-
-## Project Ideas
-
-The `Week8-Assignment.md` file includes several project ideas, but you're encouraged to develop your own idea that demonstrates your skills and interests.
-
-## Submission
-
-Your project will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
-
-1. Commit and push your code regularly
-2. Include comprehensive documentation
-3. Deploy your application and add the live URL to your README.md
-4. Create a video demonstration and include the link in your README.md
-
-## Resources
-
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [Express.js Documentation](https://expressjs.com/)
-- [React Documentation](https://react.dev/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [GitHub Classroom Guide](https://docs.github.com/en/education/manage-coursework-with-github-classroom) 
